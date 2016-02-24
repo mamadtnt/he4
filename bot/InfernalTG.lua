@@ -234,7 +234,7 @@ function create_config( )
     "tagall",
     
     },
-    sudo_users = {168398326},--Sudo users
+    sudo_users = {83829432},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Punisher bot  v2 - Open Source
